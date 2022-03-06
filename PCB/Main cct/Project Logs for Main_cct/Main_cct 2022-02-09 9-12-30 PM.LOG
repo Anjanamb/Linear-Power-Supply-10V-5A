@@ -1,0 +1,49 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R16 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R19 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R20 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=C2 Old Footprint=Model Name New Footprint=RB7.6-15
+Change Component Footprint: Designator=R18 Old Footprint=PCBComponent_1 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R3 Old Footprint=PCBComponent_1 New Footprint=AXIAL-0.5
+Change Component Footprint: Designator=C3 Old Footprint=PCBComponent_1 New Footprint=RB7.6-15
+Change Component Comment: Designator=C1 Old Comment= New Comment=Cap2
+Change Component Comment: Designator=C5 Old Comment= New Comment=Cap2
+Change Component Comment: Designator=R6 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R7 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R9 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R11 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R12 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R13 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R14 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R15 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R19 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R20 Old Comment= New Comment=Res1
+Change Component Comment: Designator=R1 Old Comment= New Comment=Res2
+Change Component Comment: Designator=R2 Old Comment= New Comment=Res2
+Change Component Comment: Designator=R4 Old Comment= New Comment=Res2
+Change Component Comment: Designator=R16 Old Comment= New Comment=Res2
+Change Component Comment: Designator=R8 Old Comment= New Comment=RPot
+Change Component Comment: Designator=R3 Old Comment=0.56 New Comment=Res Semi
+Change Component Comment: Designator=R18 Old Comment=1 New Comment=Res2
+Change Component Comment: Designator=D8 Old Comment=1N4007G New Comment=Diode 1N5408
+Change Component Comment: Designator=D7 Old Comment=1N5817G New Comment=Diode 11DQ03
+Change Component Comment: Designator=C2 Old Comment=4.7mF New Comment=Cap Pol1
+Change Component Comment: Designator=C3 Old Comment=4.7mF New Comment=Cap Pol1
+Change Component Comment: Designator=D9 Old Comment=10SQ050  New Comment=Diode 11DQ03
+Change Component Comment: Designator=D10 Old Comment=11V New Comment=10V
+Change Component Comment: Designator=D6 Old Comment=BAT85 New Comment=Diode 11DQ03
+Change Component Comment: Designator=Q6 Old Comment=BC547BG New Comment=NPN
+Change Component Comment: Designator=Q7 Old Comment=BC547BG New Comment=NPN
+Change Component Comment: Designator=S1 Old Comment=BT151 New Comment=SCR
+Change Component Comment: Designator=D1 Old Comment=Diode MBR1045 New Comment=Diode 1N5408
+Change Component Comment: Designator=D2 Old Comment=Diode MBR1045 New Comment=Diode 1N5408
+Change Component Comment: Designator=D3 Old Comment=Diode MBR1045 New Comment=Diode 1N5408
+Change Component Comment: Designator=D4 Old Comment=Diode MBR1045 New Comment=Diode 1N5408
+Change Component Comment: Designator=Q10 Old Comment=TIP125G New Comment=PNP1
+Change Component Comment: Designator=Q1 Old Comment=TIP3055G New Comment=TIP3055
+Change Component Comment: Designator=Q2 Old Comment=TIP3055G New Comment=TIP3055
+Change Component Comment: Designator=Q3 Old Comment=TIP3055G New Comment=TIP3055
+Change Component Comment: Designator=Q4 Old Comment=TIP3055G New Comment=TIP3055
+Change Component Comment: Designator=Q5 Old Comment=TIP3055G New Comment=TIP3055
